@@ -1,6 +1,6 @@
 ### Olá Pessoa! 👋
 
-<h3 align="left">Technologias & Ferramentas</h3>
+<h3 align="left">Tecnologias & Ferramentas</h3>
 
 <div align="center">
                 <br>
